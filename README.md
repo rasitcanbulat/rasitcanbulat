@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Welcome To My Profile</h1>
 
 ###
 
-<p align="left">My name is Rasit and I'm a Student, from Turkey</p>
+<p align="left">My name is Raşit and I'm a Student, from Turkey</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning C# <br> </p>
+<p align="left">✨ Creating Project since 2020<br>📚 I'm currently learning C# <br> </p>
 
 ###
 
