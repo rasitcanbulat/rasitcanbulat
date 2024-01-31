@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="delphi logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fdelphi_5968252&psig=AOvVaw0RtF492MwdcWLW92tK1Rkp&ust=1706780463951000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDftoqrh4QDFQAAAAAdAAAAABAE" height="40" alt="delphi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
