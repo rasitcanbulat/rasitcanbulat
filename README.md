@@ -20,7 +20,8 @@
 
 <div align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" height="40" alt="delphi logo"  />
+  <img src="https://w7.pngwing.com/pngs/386/344/png-transparent-microsoft-visual-basic-2005-visual-basic-net-microsoft-visual-studio-microsoft-purple-blue-text-thumbnail.png" height="40" alt="visiual basic logo"  />
+  <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" height="40" alt="visiual basic logo"  />
   <img width="12" />
 </div>
-
 ###
