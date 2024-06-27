@@ -19,8 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" height="40" alt="delphi logo"  />
-  <img src="https://procoders.tech/wp-content/uploads/2023/05/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-removebg-preview.png" height="40" alt="visiual basic logo"  />
+  <img src="https://procoders.tech/wp-content/uploads/2023/05/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-removebg-preview.png" height="40" alt="c# logo"  />
+  <img src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" height="40" alt="sql logo"  />
   <img width="12" />
 </div>
-###
