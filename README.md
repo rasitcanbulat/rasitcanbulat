@@ -20,8 +20,7 @@
 
 <div align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" height="40" alt="delphi logo"  />
-  <img src="https://w7.pngwing.com/pngs/386/344/png-transparent-microsoft-visual-basic-2005-visual-basic-net-microsoft-visual-studio-microsoft-purple-blue-text-thumbnail.png" height="40" alt="visiual basic logo"  />
-  <img src="![image](https://github.com/rasitcanbulat/rasitcanbulat/assets/116082927/383dfcab-51da-4090-9eaf-fa495bccaf45)" height="40" alt="visiual basic logo"  />
+  <img src="https://procoders.tech/wp-content/uploads/2023/05/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-removebg-preview.png" height="40" alt="visiual basic logo"  />
   <img width="12" />
 </div>
 ###
