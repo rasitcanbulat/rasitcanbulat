@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating Project since 2020<br>📚 I'm currently learning C# <br> </p>
+<p align="left">✨ Creating Project since 2020<br>📚 I'm currently learning *C# , Python , Data Science and Statistics* <br> </p>
 
 ###
 
