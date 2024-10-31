@@ -28,7 +28,10 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+<a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer">
+<img src="https://github.com/user-attachments/assets/3cfd20dd-c507-4d50-acaf-721e57879ba3" alt="visualbasic" width="40" height="40"/> </a> 
 <a href="https://www.embarcadero.com/products/delphi" target="_blank" rel="noreferrer">
 <img src="https://github.com/user-attachments/assets/2dbf6053-6b52-4744-9aa8-55e0245568da" alt="delphi" width="40" height="40"/> </a>
+
 
