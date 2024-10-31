@@ -29,7 +29,6 @@
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+<a href="[https://www.rust-lang.org](https://www.embarcadero.com/products/delphi)" target="_blank" rel="noreferrer">
 <img src="![delphi](https://github.com/user-attachments/assets/2dbf6053-6b52-4744-9aa8-55e0245568da)" alt="delphi" width="40" height="40"/> </a>
-<a href="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" target="_blank" rel="noreferrer">  
 
