@@ -30,5 +30,5 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.embarcadero.com/products/delphi" target="_blank" rel="noreferrer">
-<img src="![delphi](https://github.com/user-attachments/assets/2dbf6053-6b52-4744-9aa8-55e0245568da)" alt="delphi" width="40" height="40"/> </a>
+<img src="https://github.com/user-attachments/assets/2dbf6053-6b52-4744-9aa8-55e0245568da" alt="delphi" width="40" height="40"/> </a>
 
