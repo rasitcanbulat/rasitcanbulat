@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Raşit and I'm a Student, from Turkey</p>
+<p align="left">My name is Raşit and I'm a MIS Student, from Turkey</p>
 
 ###
 
