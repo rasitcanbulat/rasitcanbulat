@@ -43,21 +43,21 @@ You can find more about me at: <a href="https://www.rasitcanbulat.com">www.rasit
 
 ## 🚀 Featured Projects
 
-- [Tweet Sentiment Analysis](https://github.com/rasitcanbulat/verimadenciligi): NLP-based classification using Sentiment140 and ML algorithms
-- [Book Sales Website](https://github.com/rasitcanbulat/kitap-satis): PHP + MySQL-based e-commerce site
+- [Tweet Sentiment Analysis](https://github.com/rasitcanbulat/tweet-sentiment-analysis): NLP-based classification using Sentiment140 and ML algorithms
+- [Book Sales Website](https://github.com/rasitcanbulat/Management_Panel): PHP + MySQL-based e-commerce site
 - [Real-Time Chat App](https://github.com/rasitcanbulat/chatapp): Flask + WebSocket + WebRTC real-time messaging platform
-- [Stock Tracking System](https://github.com/rasitcanbulat/depo-stok): SQL Server + PHP warehouse stock management
+- [Stock Tracking System](https://github.com/rasitcanbulat/CoffeeShop-Stock-Control): SQL Server + PHP warehouse stock management
 
 ---
 
 ## 📄 Academic CV
 
-📎 [View My CV (PDF)](https://www.rasitcanbulat.com/assets/CV_Rasit_Canbulat.pdf)
+📎 [View My CV (PDF)](https://drive.google.com/file/d/1hPTlVS7DCA0Y2h4qungLtN7fzViI_vo3/view)
 
 ---
 
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rasitcanbulat)
-- 📧 Email: rasit@rasitcanbulat.com
+- 📧 Email: m.rasitcanbulat@hotmail.com
 - 🌍 Website: [www.rasitcanbulat.com](https://www.rasitcanbulat.com)
