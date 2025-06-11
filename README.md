@@ -1,37 +1,63 @@
-<h1 align="left">Welcome To My Profile</h1>
+<h1 align="left">Welcome to My GitHub Profile</h1>
 
-###
+<p align="left">
+My name is Raşit Canbulat, and I am a Management Information Systems (MIS) student from Turkey.<br>
+I focus on developing data-driven and software-based projects in areas such as data science, machine learning, and backend development.<br>
+You can find more about me at: <a href="https://www.rasitcanbulat.com">www.rasitcanbulat.com</a>
+</p>
 
-<p align="left">My name is Raşit and I'm a MIS Student, from Turkey You can learn more information in www.rasitcanbulat.com </p>
+---
 
-###
+## 📌 About Me
 
-<h2 align="left">About me</h2>
+- 🎓 Undergraduate student in Management Information Systems
+- 🧠 Enthusiastic about Python, Data Science, Machine Learning, and C# Development
+- 📊 Developing academic and personal projects since 2020
+- 🚀 Open to collaborative projects, internships, and research opportunities
 
-###
+---
 
-<p align="left">✨ Creating Project since 2020<br>📚 I'm currently learning C# , Python , Data Science and Statistics <br> </p>
+## 💻 Tools & Technologies
 
-###
+### Languages & Tools I Use:
 
-<h2 align="left">I code with</h2>
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3cfd20dd-c507-4d50-acaf-721e57879ba3" alt="Visual Basic" width="40" height="40"/>
+  </a>
+  <a href="https://www.embarcadero.com/products/delphi" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2dbf6053-6b52-4744-9aa8-55e0245568da" alt="Delphi" width="40" height="40"/>
+  </a>
+</p>
 
-###
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-<a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer">
-<img src="https://github.com/user-attachments/assets/3cfd20dd-c507-4d50-acaf-721e57879ba3" alt="visualbasic" width="40" height="40"/> </a> 
-<a href="https://www.embarcadero.com/products/delphi" target="_blank" rel="noreferrer">
-<img src="https://github.com/user-attachments/assets/2dbf6053-6b52-4744-9aa8-55e0245568da" alt="delphi" width="40" height="40"/> </a>
+## 🚀 Featured Projects
 
+- [Tweet Sentiment Analysis](https://github.com/rasitcanbulat/verimadenciligi): NLP-based classification using Sentiment140 and ML algorithms
+- [Book Sales Website](https://github.com/rasitcanbulat/kitap-satis): PHP + MySQL-based e-commerce site
+- [Real-Time Chat App](https://github.com/rasitcanbulat/chatapp): Flask + WebSocket + WebRTC real-time messaging platform
+- [Stock Tracking System](https://github.com/rasitcanbulat/depo-stok): SQL Server + PHP warehouse stock management
 
+---
+
+## 📄 Academic CV
+
+📎 [View My CV (PDF)](https://www.rasitcanbulat.com/assets/CV_Rasit_Canbulat.pdf)
+
+---
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rasitcanbulat)
+- 📧 Email: rasit@rasitcanbulat.com
+- 🌍 Website: [www.rasitcanbulat.com](https://www.rasitcanbulat.com)
